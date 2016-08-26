@@ -3,6 +3,7 @@ Quick and easy to use Module and Theme (skin) Development templates for DotNetNu
 
 <h2>Installation</h2>
 You can directly install the .VSIX file by double click on it.
+<br>(.VSIX supports Visual Studio 2015 Express and Community versions)
 
 In order to create a new module follow these steps:
 
